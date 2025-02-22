@@ -34,8 +34,8 @@ This project is a full-stack social media web application 🌐 that has been dev
 - View Other Posts By Follow Users And React On That Posts.
 - Update/Edit Profile Page User Data.
 
--
-- #### **What you need to run this application:**
+
+#### **What you need to run this application:**
 
  - Install NodeJs
  - MongoDB or MongoDB Atlas
