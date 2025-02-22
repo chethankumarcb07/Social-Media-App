@@ -1,43 +1,73 @@
 Social Media Web App
-This project is a full-stack social media web application 🌐 that has been developed using the MERN stack 🖥️ and Rest API 🚀, In this social media platform where you can share posts, like/unlike posts, Follow/Unfollow users and more.
+This project is a full-stack social media web application 🌐 built using the MERN stack 🖥️ and REST API 🚀.
+It allows users to share posts, like/unlike posts, follow/unfollow users, and more.
 
-🖥️ Technologies :
+🖥️ Technologies Used
 Frontend:
-
-React Js
-Material-Ui
+React.js
+Material-UI
 CSS
 React-Router-Dom
 Redux
 Backend:
-
-Node JS
-Express Js
+Node.js
+Express.js
 MongoDB
-Rest API
+REST API
 JWT Authentication
-🚀 Features :
-SignUp/Register Page.
-Login Page.
-Share New Post.
-Posts Include Text(Caption).
-Like/Unlike Posts.
-Suggested Users.
-Follow/Unfollow Users.
-View No Of Followers/Following Of User.
-View Other Posts By Follow Users And React On That Posts.
-Update/Edit Profile Page User Data.
+🚀 Features
+✅ Authentication
 
-What you need to run this application:
-Install NodeJs
-MongoDB or MongoDB Atlas
-Install Vs Code
+SignUp/Register Page
+Login Page
+✅ Posts & Interactions
 
-How to run this application
-Make sure MongoDB is running on your system or online.
-Clone this repository
-Open command line in the cloned folder,
-To install dependencies for frontend , run npm install in /client folder.
-To run frontend type command npm start in /client folder.
-To install dependencies for backend, run npm install in /server folder.
-To run backend type command nodemon in server folder.
+Share New Posts (text/caption)
+Like/Unlike Posts
+View Posts from Followed Users
+✅ User Features
+
+Follow/Unfollow Users
+Suggested Users List
+View Number of Followers/Following
+Update/Edit Profile Information
+⚙️ Requirements to Run This Application
+Install Node.js
+Install MongoDB (or use MongoDB Atlas)
+Install VS Code
+📌 How to Run This Application
+1️⃣ Ensure MongoDB is running (either locally or online).
+2️⃣ Clone this repository:
+
+sh
+Copy
+Edit
+git clone https://github.com/your-repo-link.git
+cd your-repo-folder
+3️⃣ Install dependencies for the frontend:
+
+sh
+Copy
+Edit
+cd client
+npm install
+4️⃣ Start the frontend:
+
+sh
+Copy
+Edit
+npm start
+5️⃣ Install dependencies for the backend:
+
+sh
+Copy
+Edit
+cd ../server
+npm install
+6️⃣ Start the backend:
+
+sh
+Copy
+Edit
+nodemon
+Now, your Social Media Web App should be up and running! 🎉🚀
